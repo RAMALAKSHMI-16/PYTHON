@@ -1,0 +1,4 @@
+
+S1,S2,S3=map(int, input("enter the subjects marks").split())
+if S1>75 or S2>75 or S3>75 :
+    print("student passed in distiction")
