@@ -1,0 +1,6 @@
+age=int(input("enter the aage"))
+license=input("xchesck the license enete yes or no")
+if age>=18 and license=='yes':
+    print("driving")
+else:
+    print("not allowed for the driving")

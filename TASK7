@@ -1,0 +1,4 @@
+num1=int(input("enter the numbers value"))
+num2=int(input("enter the number2 value"))
+if num1>0 and num2>0 :
+    print("both number are positives")

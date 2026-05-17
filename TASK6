@@ -1,0 +1,6 @@
+num1=int(input("enter the numbers value"))
+num2=int(input("enter the number2 value"))
+if num1%2==0 and num2%2==0 :
+    print("number is even")
+else:
+    print("nuber are not even")
