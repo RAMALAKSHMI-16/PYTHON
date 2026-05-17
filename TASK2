@@ -1,0 +1,6 @@
+marks1=int(input("enter the marks of the student of the subject 1"))
+marks2=int(input("enter the marks of the student of the subject 2"))
+if marks1>=35 and marks2>=35 :
+    print("pass")
+else :
+    print("fail")
