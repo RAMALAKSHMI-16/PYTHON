@@ -1,0 +1,5 @@
+file1=bool(input("enter the true or false"))
+if not file1== 'True':
+    print(" not AVAIBLE")
+else:
+    print(" AVAIBLE")

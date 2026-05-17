@@ -1,0 +1,5 @@
+employ=bool(input("enter active or not"))
+if not employ == 'True':
+    print("NOT ACTIVE")
+else:
+    print("ACTIVE")

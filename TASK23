@@ -1,0 +1,6 @@
+value=input("enter the value")
+if not value==" " :
+    print("value is not empty")
+else:
+    print("value is empty")
+
