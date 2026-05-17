@@ -1,0 +1,5 @@
+username=["rama","sita","krisha"]
+username1=str(input("enter the username"))
+for i in  username:
+    if username1 == i :
+        print("valid user")
