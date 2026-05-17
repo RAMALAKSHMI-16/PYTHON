@@ -1,0 +1,3 @@
+num=int(input("enter the number"))
+if num ==0 or num==5 or num==90 :
+    print("num value mathches")

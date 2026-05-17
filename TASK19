@@ -1,0 +1,3 @@
+city=str(input("enter the city"))
+if city =="chennai" or city=="ap" or city=="up" :
+    print(city)

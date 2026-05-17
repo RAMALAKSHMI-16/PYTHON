@@ -1,0 +1,3 @@
+user=str(input("enter the user  type"))
+if not user=="admin" :
+    print("user is not admin")
