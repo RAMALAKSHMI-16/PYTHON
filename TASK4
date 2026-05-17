@@ -1,0 +1,7 @@
+username='rama';password1=876543
+name=str(input("enter the username"))
+password=int(input("enter the passwod"))
+if name==username and password==password1 :
+    print("user credentials is valid")
+else:
+    print("invalid")
