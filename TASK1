@@ -1,0 +1,19 @@
+age=int(input("enter the age of the employee"))
+salary=int(input("enter the slary"))
+if age>21 and salary>30000 :
+    print("person is elgible")
+else:
+    print("not eligible")
+
+
+
+
+
+
+
+
+
+
+
+
+
