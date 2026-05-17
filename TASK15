@@ -1,0 +1,5 @@
+user_sal=int(input("enter the salary that user expecting"))
+user_exp=int(input("ener the use experiecnce"))
+if user_sal==20 and user_exp==3 :
+    print("user got the job")
+

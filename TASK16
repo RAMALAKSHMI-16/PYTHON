@@ -1,0 +1,5 @@
+temp=int(input("enter the temperature"))
+if temp <20 or temp>100:
+    print("temperature low")
+else:
+    print("temperature is normal")

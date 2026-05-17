@@ -1,0 +1,4 @@
+category=str(input("enter the category"))
+if category=="girl" or category =="boy":
+    print(category)
+   
